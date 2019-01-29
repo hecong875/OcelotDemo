@@ -1,0 +1,9 @@
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AhphOcelot\bin\Debug\netstandard2.0\Demo.AhphOcelot.deps.json
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AhphOcelot\bin\Debug\netstandard2.0\Demo.AhphOcelot.dll
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AhphOcelot\obj\Debug\netstandard2.0\Demo.AhphOcelot.csproj.CoreCompileInputs.cache
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AhphOcelot\obj\Debug\netstandard2.0\Demo.AhphOcelot.AssemblyInfoInputs.cache
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AhphOcelot\obj\Debug\netstandard2.0\Demo.AhphOcelot.AssemblyInfo.cs
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AhphOcelot\bin\Debug\netstandard2.0\Demo.AhphOcelot.pdb
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AhphOcelot\obj\Debug\netstandard2.0\Demo.AhphOcelot.dll
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AhphOcelot\obj\Debug\netstandard2.0\Demo.AhphOcelot.pdb
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AhphOcelot\obj\Debug\netstandard2.0\Demo.AhphOcelot.csprojAssemblyReference.cache

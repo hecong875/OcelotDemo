@@ -1,0 +1,14 @@
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.TestService\bin\Debug\netcoreapp2.1\Demo.AuthPlatform.TestService.deps.json
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.TestService\bin\Debug\netcoreapp2.1\Demo.AuthPlatform.TestService.runtimeconfig.json
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.TestService\bin\Debug\netcoreapp2.1\Demo.AuthPlatform.TestService.runtimeconfig.dev.json
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.TestService\bin\Debug\netcoreapp2.1\Demo.AuthPlatform.TestService.dll
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.TestService\bin\Debug\netcoreapp2.1\Demo.AuthPlatform.TestService.pdb
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.TestService\obj\Debug\netcoreapp2.1\Demo.AuthPlatform.TestService.csproj.CoreCompileInputs.cache
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.TestService\obj\Debug\netcoreapp2.1\Demo.AuthPlatform.TestService.RazorAssemblyInfo.cache
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.TestService\obj\Debug\netcoreapp2.1\Demo.AuthPlatform.TestService.RazorAssemblyInfo.cs
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.TestService\obj\Debug\netcoreapp2.1\Demo.AuthPlatform.TestService.AssemblyInfoInputs.cache
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.TestService\obj\Debug\netcoreapp2.1\Demo.AuthPlatform.TestService.AssemblyInfo.cs
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.TestService\obj\Debug\netcoreapp2.1\Demo.AuthPlatform.TestService.RazorTargetAssemblyInfo.cache
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.TestService\obj\Debug\netcoreapp2.1\Demo.AuthPlatform.TestService.dll
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.TestService\obj\Debug\netcoreapp2.1\Demo.AuthPlatform.TestService.pdb
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.TestService\obj\Debug\netcoreapp2.1\Demo.AuthPlatform.TestService.csprojAssemblyReference.cache

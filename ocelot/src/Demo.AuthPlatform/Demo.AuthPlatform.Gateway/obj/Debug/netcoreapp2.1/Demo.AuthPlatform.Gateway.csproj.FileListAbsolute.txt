@@ -1,0 +1,17 @@
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.Gateway\bin\Debug\netcoreapp2.1\Demo.AuthPlatform.Gateway.deps.json
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.Gateway\bin\Debug\netcoreapp2.1\Demo.AuthPlatform.Gateway.runtimeconfig.json
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.Gateway\bin\Debug\netcoreapp2.1\Demo.AuthPlatform.Gateway.runtimeconfig.dev.json
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.Gateway\bin\Debug\netcoreapp2.1\Demo.AuthPlatform.Gateway.dll
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.Gateway\bin\Debug\netcoreapp2.1\Demo.AuthPlatform.Gateway.pdb
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.Gateway\obj\Debug\netcoreapp2.1\Demo.AuthPlatform.Gateway.csprojAssemblyReference.cache
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.Gateway\obj\Debug\netcoreapp2.1\Demo.AuthPlatform.Gateway.csproj.CoreCompileInputs.cache
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.Gateway\obj\Debug\netcoreapp2.1\Demo.AuthPlatform.Gateway.RazorAssemblyInfo.cache
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.Gateway\obj\Debug\netcoreapp2.1\Demo.AuthPlatform.Gateway.RazorAssemblyInfo.cs
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.Gateway\obj\Debug\netcoreapp2.1\Demo.AuthPlatform.Gateway.AssemblyInfoInputs.cache
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.Gateway\obj\Debug\netcoreapp2.1\Demo.AuthPlatform.Gateway.AssemblyInfo.cs
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.Gateway\obj\Debug\netcoreapp2.1\Demo.AuthPlatform.Gateway.RazorTargetAssemblyInfo.cache
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.Gateway\obj\Debug\netcoreapp2.1\Demo.AuthPlatform.Gateway.dll
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.Gateway\obj\Debug\netcoreapp2.1\Demo.AuthPlatform.Gateway.pdb
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.Gateway\bin\Debug\netcoreapp2.1\Demo.AhphOcelot.dll
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.Gateway\bin\Debug\netcoreapp2.1\Demo.AhphOcelot.pdb
+D:\Demo\ocelotDemo\src\Demo.AuthPlatform\Demo.AuthPlatform.Gateway\obj\Debug\netcoreapp2.1\Demo.AuthPlatform.Gateway.csproj.CopyComplete

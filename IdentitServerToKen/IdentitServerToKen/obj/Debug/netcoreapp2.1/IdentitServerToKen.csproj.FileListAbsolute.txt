@@ -1,0 +1,14 @@
+D:\Demo\IdentitServerToKen\IdentitServerToKen\bin\Debug\netcoreapp2.1\IdentitServerToKen.deps.json
+D:\Demo\IdentitServerToKen\IdentitServerToKen\bin\Debug\netcoreapp2.1\IdentitServerToKen.runtimeconfig.json
+D:\Demo\IdentitServerToKen\IdentitServerToKen\bin\Debug\netcoreapp2.1\IdentitServerToKen.runtimeconfig.dev.json
+D:\Demo\IdentitServerToKen\IdentitServerToKen\bin\Debug\netcoreapp2.1\IdentitServerToKen.dll
+D:\Demo\IdentitServerToKen\IdentitServerToKen\obj\Debug\netcoreapp2.1\IdentitServerToKen.csprojAssemblyReference.cache
+D:\Demo\IdentitServerToKen\IdentitServerToKen\obj\Debug\netcoreapp2.1\IdentitServerToKen.csproj.CoreCompileInputs.cache
+D:\Demo\IdentitServerToKen\IdentitServerToKen\obj\Debug\netcoreapp2.1\IdentitServerToKen.RazorAssemblyInfo.cache
+D:\Demo\IdentitServerToKen\IdentitServerToKen\obj\Debug\netcoreapp2.1\IdentitServerToKen.RazorAssemblyInfo.cs
+D:\Demo\IdentitServerToKen\IdentitServerToKen\obj\Debug\netcoreapp2.1\IdentitServerToKen.AssemblyInfoInputs.cache
+D:\Demo\IdentitServerToKen\IdentitServerToKen\obj\Debug\netcoreapp2.1\IdentitServerToKen.AssemblyInfo.cs
+D:\Demo\IdentitServerToKen\IdentitServerToKen\obj\Debug\netcoreapp2.1\IdentitServerToKen.RazorTargetAssemblyInfo.cache
+D:\Demo\IdentitServerToKen\IdentitServerToKen\bin\Debug\netcoreapp2.1\IdentitServerToKen.pdb
+D:\Demo\IdentitServerToKen\IdentitServerToKen\obj\Debug\netcoreapp2.1\IdentitServerToKen.dll
+D:\Demo\IdentitServerToKen\IdentitServerToKen\obj\Debug\netcoreapp2.1\IdentitServerToKen.pdb

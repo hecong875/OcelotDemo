@@ -1,0 +1,14 @@
+D:\Demo\IdentitServer4\IdentitServer4\bin\Debug\netcoreapp2.1\IdentitServer4.deps.json
+D:\Demo\IdentitServer4\IdentitServer4\bin\Debug\netcoreapp2.1\IdentitServer4.runtimeconfig.json
+D:\Demo\IdentitServer4\IdentitServer4\bin\Debug\netcoreapp2.1\IdentitServer4.runtimeconfig.dev.json
+D:\Demo\IdentitServer4\IdentitServer4\bin\Debug\netcoreapp2.1\IdentitServer4.dll
+D:\Demo\IdentitServer4\IdentitServer4\obj\Debug\netcoreapp2.1\IdentitServer4.csprojAssemblyReference.cache
+D:\Demo\IdentitServer4\IdentitServer4\obj\Debug\netcoreapp2.1\IdentitServer4.csproj.CoreCompileInputs.cache
+D:\Demo\IdentitServer4\IdentitServer4\obj\Debug\netcoreapp2.1\IdentitServer4.RazorAssemblyInfo.cache
+D:\Demo\IdentitServer4\IdentitServer4\obj\Debug\netcoreapp2.1\IdentitServer4.RazorAssemblyInfo.cs
+D:\Demo\IdentitServer4\IdentitServer4\obj\Debug\netcoreapp2.1\IdentitServer4.AssemblyInfoInputs.cache
+D:\Demo\IdentitServer4\IdentitServer4\obj\Debug\netcoreapp2.1\IdentitServer4.AssemblyInfo.cs
+D:\Demo\IdentitServer4\IdentitServer4\obj\Debug\netcoreapp2.1\IdentitServer4.RazorTargetAssemblyInfo.cache
+D:\Demo\IdentitServer4\IdentitServer4\bin\Debug\netcoreapp2.1\IdentitServer4.pdb
+D:\Demo\IdentitServer4\IdentitServer4\obj\Debug\netcoreapp2.1\IdentitServer4.dll
+D:\Demo\IdentitServer4\IdentitServer4\obj\Debug\netcoreapp2.1\IdentitServer4.pdb
